@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Александр Рогонов](https://up.htmlacademy.ru/adaptive/15/user/502535).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Мишагин](https://up.htmlacademy.ru/adaptive/15/user/118967).
 
 ---
 
